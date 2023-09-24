@@ -1,6 +1,7 @@
-/* Queries used in BigQuery to analyze dataset */
+-- Queries used in BigQuery to analyze dataset
 
--- Join the two datasets into one single dataset
+/* Join the two datasets into one single dataset.
+Q2 and Q3 datasets were too large for thee free tier of BigQuery */
 SELECT * FROM `smooth-guru-386204.google_case_study_1.Divvy_Trips_2019_Q1`
 UNION ALL
 SELECT * FROM `smooth-guru-386204.google_case_study_1.Divvy_Trips_2019_Q4`
