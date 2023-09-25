@@ -7,7 +7,7 @@ Data: [Link](https://divvy-tripdata.s3.amazonaws.com/index.html)
 Data License: [Link](https://divvybikes.com/data-license-agreement)  
 
 Using the following datasets:  
-"Divvy_Trips_2019_Q1.zip"  
 "Divvy_Trips_2019_Q2.zip"  
 "Divvy_Trips_2019_Q3.zip"  
 "Divvy_Trips_2019_Q4.zip"
+"Divvy_Trips_2020_Q1.zip" 
