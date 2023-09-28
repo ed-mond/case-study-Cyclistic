@@ -11,3 +11,5 @@ Using the following datasets:
 "Divvy_Trips_2019_Q3.zip"  
 "Divvy_Trips_2019_Q4.zip"  
 "Divvy_Trips_2020_Q1.zip"
+
+See following for Tableau chart examples about the summary data: [Link](https://public.tableau.com/app/profile/edmondliu/viz/CyclisticCaseStudyChartExamples/CyclisticDataChartExamples)
